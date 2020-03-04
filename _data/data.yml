@@ -100,7 +100,7 @@ publications:
     
 publications:
     title: Journals
-    #papers:
+    papers:
     #  - title: The Art of Computer Programming
     #    link: "#"
     #    authors: Donald E. Knuth
@@ -109,7 +109,7 @@ publications:
     
 publications:
     title: Patents
-    #papers:
+    papers:
     #  - title: The Art of Computer Programming
     #    link: "#"
     #    authors: Donald E. Knuth
@@ -142,7 +142,7 @@ skills:
       - name: Verilog
         level: 85%
 
-      - name: ncverilog/simvision(Cadence)
+      - name: ncverilog/simvision
         level: 90%
 
 
