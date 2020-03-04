@@ -75,7 +75,7 @@ projects:
       #  tagline: "A responsive website template designed to help web developers/designers market their services."
 
 
-publications:
+conferences:
     title: Conferences
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
@@ -98,7 +98,7 @@ publications:
     #    conference: "Comm. ACM 4 (1961), 51–55"
     
     
-publications:
+journals:
     title: Journals
     papers:
     #  - title: The Art of Computer Programming
@@ -116,13 +116,13 @@ publications:
     #    conference: Addison-Wesley, 1968
     
     
-publications:
+awards:
     title: Awards
     papers:
       - title: 3rd place in the 2019 ISPD Contest(Initial Detailed Routing Contest)
 
 
-publications:
+teachings:
     title: Teachings Assistance(TA)
     #intro: I am Teaching Assistance(TA) for the following courses in POSTECH:
     papers:
