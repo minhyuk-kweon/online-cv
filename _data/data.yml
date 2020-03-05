@@ -77,7 +77,7 @@ projects:
 conference:
     title: Conferences
     papers:
-      #- title: The Art of Computer Programming
+      - title: 
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
 
@@ -95,7 +95,7 @@ conference:
 journal:
     title: Journals
     papers:
-      #- title: The Art of Computer Programming
+      - title: 
       #  authors: Donald E. Knuth
       #  journal: Addison-Wesley, 1968
     
