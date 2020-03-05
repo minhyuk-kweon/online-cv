@@ -74,8 +74,12 @@ projects:
       - title: DevStudio
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
+publications:
+    papers:
+        title: Mid
 
-conferences:
+
+conference:
     title: Conferences
     #intro: |
     #  You can list your publications in this section. Lorem ipsum dolor sit
@@ -98,7 +102,7 @@ conferences:
     #    conference: "Comm. ACM 4 (1961), 51–55"
     
     
-journals:
+journal:
     title: Journals
     papers:
       - title: The Art of Computer Programming
@@ -122,7 +126,7 @@ awards:
       - title: 3rd place in the 2019 ISPD Contest(Initial Detailed Routing Contest)
 
 
-teachings:
+teaching:
     title: Teachings Assistance(TA)
     #intro: I am Teaching Assistance(TA) for the following courses in POSTECH:
     papers:
