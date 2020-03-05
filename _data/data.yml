@@ -68,11 +68,11 @@ experiences:
 projects:
     title: Projects
     assignments:
-      #- title: Velocity
-      #  tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Velocity
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      #- title: DevStudio
-      #  tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: DevStudio
+        tagline: "A responsive website template designed to help web developers/designers market their services."
 
 
 conferences:
@@ -81,11 +81,11 @@ conferences:
     #  You can list your publications in this section. Lorem ipsum dolor sit
     #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
     #  bibendum fringilla a eu lectus.
-    #papers:
-    #  - title: The Art of Computer Programming
-    #    link: "#"
-    #    authors: Donald E. Knuth
-    #    conference: Addison-Wesley, 1968
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
@@ -101,19 +101,19 @@ conferences:
 journals:
     title: Journals
     papers:
-    #  - title: The Art of Computer Programming
-    #    link: "#"
-    #    authors: Donald E. Knuth
-    #    conference: Addison-Wesley, 1968
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
     
     
 patents:
     title: Patents
     papers:
-    #  - title: The Art of Computer Programming
-    #    link: "#"
-    #    authors: Donald E. Knuth
-    #    conference: Addison-Wesley, 1968
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
     
     
 awards:
