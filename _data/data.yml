@@ -77,7 +77,7 @@ projects:
 publications:
     title: publications
     papers:
-        title: Mid
+       - title: Mid
 
 
 conference:
