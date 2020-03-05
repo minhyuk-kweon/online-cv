@@ -82,13 +82,8 @@ publications:
 
 conference:
     title: Conferences
-    #intro: |
-    #  You can list your publications in this section. Lorem ipsum dolor sit
-    #  amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    #  bibendum fringilla a eu lectus.
     papers:
       - title: The Art of Computer Programming
-        link: "#"
         authors: Donald E. Knuth
         conference: Addison-Wesley, 1968
 
