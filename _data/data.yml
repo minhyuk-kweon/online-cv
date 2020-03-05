@@ -77,9 +77,9 @@ projects:
 conference:
     title: Conferences
     papers:
-      - title: The art
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      #- title: The art
+      #  authors: Donald E. Knuth
+      #  conference: Addison-Wesley, 1968
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
