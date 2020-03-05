@@ -74,20 +74,12 @@ projects:
       - title: DevStudio
         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-publications:
-    title: publications
-    papers:
-       - title: Mid
-         authors: Minhyuk Kweon
-         conference: ISPD
-
-
 conference:
     title: Conferences
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      #- title: The Art of Computer Programming
+      #  authors: Donald E. Knuth
+      #  conference: Addison-Wesley, 1968
 
     #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
     #    link: "#"
@@ -103,17 +95,17 @@ conference:
 journal:
     title: Journals
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        journal: Addison-Wesley, 1968
+      #- title: The Art of Computer Programming
+      #  authors: Donald E. Knuth
+      #  journal: Addison-Wesley, 1968
     
     
 patents:
     title: Patents
     papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      #- title: The Art of Computer Programming
+      #  authors: Donald E. Knuth
+      #  conference: Addison-Wesley, 1968
     
     
 awards:
