@@ -71,13 +71,13 @@ projects:
       #- title: ERC
       #  tagline: ", with Sunghye Park, Jan.2019 - Present"
     
-      - title: Wafer-Scale Deep Learning Accelerator Placement (ISPD contest 2020)
+      - title: Wafer-Scale Deep Learning Accelerator Placement [(ISPD contest 2020)](https://www.cerebras.net/ispd-2020-contest/)
         tagline: "Cerebras, with Sunghye Park, Jongho Yoon, Daeyeon Kim, Sung-yun Lee, Jan.2019 - Present"
     
       - title: Self-Driving Vehicle Routing Algorithm Simulator
         tagline: "WaveM, with Daeyeon Kim, Sep.2019 - Present"
 
-      - title: LEF/DEF based Initial Detailed Routing (ISPD contest 2019)
+      - title: LEF/DEF based Initial Detailed Routing [(ISPD contest 2019)](http://www.ispd.cc/contests/19/)
         tagline: "Cadence, with Daeyeon Kim, Sung-yun Lee, Jan.2019 - Mar.2019"
 
 conference:
