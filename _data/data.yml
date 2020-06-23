@@ -70,21 +70,24 @@ projects:
     assignments:
       #- title: ERC
       #  tagline: ", with Sunghye Park, Jan.2019 - Present"
+      - title: Scalable Quantum Computer Technology Platform Center
+        #link: https://www.cerebras.net/ispd-2020-contest/
+        tagline: "NRF, with Sunghye Park, Jul.2019 - Present"
     
       - title: Wafer-Scale Deep Learning Accelerator Placement (ISPD contest 2020)
         link: https://www.cerebras.net/ispd-2020-contest/
-        tagline: "Cerebras, with Sunghye Park, Jongho Yoon, Daeyeon Kim, Sung-yun Lee, Jan.2019 - Present"
+        tagline: "Cerebras, with Sunghye Park, Jongho Yoon, Daeyeon Kim, Sung-yun Lee, Jan.2020 - Apr.2020"
     
       - title: Self-Driving Vehicle Routing Algorithm Simulator
-        tagline: "WaveM, with Daeyeon Kim, Sep.2019 - Present"
+        tagline: "WaveM, with Daeyeon Kim, Jun.2019 - May.2020"
 
       - title: LEF/DEF based Initial Detailed Routing (ISPD contest 2019)
         link: http://www.ispd.cc/contests/19/
         tagline: "Cadence, with Daeyeon Kim, Sung-yun Lee, Jan.2019 - Mar.2019"
 
-conference:
-    title: Conferences
-    papers:
+###conference:
+    ###title: Conferences
+    ###papers:
       #- title: The art
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
@@ -100,17 +103,17 @@ conference:
     #    conference: "Comm. ACM 4 (1961), 51–55"
     
     
-journal:
-    title: Journals
-    papers:
+###journal:
+    ###title: Journals
+    ###papers:
       #- title: 
       #  authors: Donald E. Knuth
       #  journal: Addison-Wesley, 1968
     
     
-patents:
-    title: Patents
-    papers:
+###patents:
+    ###title: Patents
+    ###papers:
       #- title: The Art of Computer Programming
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
@@ -119,7 +122,8 @@ patents:
 awards:
     title: Awards
     papers:
-      - title: 3rd place in the ISPD Contest 2019 (Initial Detailed Routing Contest)
+      - title: Honorable mention in the ISPD Contest 2020 (Wafer-Scale Deep Learning Accelerator Placement)
+      - title: 3rd place in the ISPD Contest 2019 (LEF/DEF based Initial Detailed Routing Contest)
 
 
 teaching:
@@ -140,13 +144,16 @@ skills:
         level: 80%
 
       - name: Verilog
-        level: 80%
+        level: 70%
 
-      - name: ncverilog/simvision
-        level: 90%
-      
+      #- name: ncverilog/simvision
+      #  level: 90%
+        
+      #- name: Design Compiler
+      #  level: 90%
+        
       - name: python
-        level: 50%
+        level: 60%
 
 
 footer: >
