@@ -86,15 +86,15 @@ projects:
         link: http://www.ispd.cc/contests/19/
         tagline: "Cadence, with Daeyeon Kim, Sung-yun Lee, Jan.2019 - Mar.2019"
 
-conference:
-    title: Conferences
-    papers:
+#conference:
+ #   title: Conferences
+  #  papers:
       #- title: The art
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
-      - title: "Ternary Static Timing Analysis (TBD)"
-      - authors: Minhyuk Kweon, Sunmean Kim, Seokhyeong Kang
-      - conference: "Target: ISMVL"
+   #   - title: "Ternary Static Timing Analysis (TBD)"
+    #  - authors: Minhyuk Kweon, Sunmean Kim, Seokhyeong Kang
+     # - conference: "Target: ISMVL"
     #    link: "#"
     #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
     #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
