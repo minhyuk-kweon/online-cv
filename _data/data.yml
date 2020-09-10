@@ -39,11 +39,11 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Minhyuk Kweon is currently Master-PhD integrated student in the
+      Minhyuk Kweon is currently Master-Ph.D integrated student in the
       Department of Electrical Engineering in Pohang University of Science and Technology (POSTECH), Korea.
       He is working with Professor Seokhyeong Kang in [CAD & SoC Design Lab(CSDL).](http://csdl.postech.ac.kr)
       
-      His reseach interest includes VLSI physical design.
+      His reseach interest includes VLSI physical design, Qunatum circuit mapping.
       
       
 education:
@@ -86,14 +86,15 @@ projects:
         link: http://www.ispd.cc/contests/19/
         tagline: "Cadence, with Daeyeon Kim, Sung-yun Lee, Jan.2019 - Mar.2019"
 
-###conference:
-    ###title: Conferences
-    ###papers:
+conference:
+    title: Conferences
+    papers:
       #- title: The art
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
-
-    #  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+      - title: "Ternary Static Timing Analysis (TBD)"
+      - authors: Minhyuk Kweon, Sunmean Kim, Seokhyeong Kang
+      - conference: "Target: ISMVL"
     #    link: "#"
     #    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
     #    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
@@ -132,6 +133,7 @@ teaching:
     #intro: I am Teaching Assistance(TA) for the following courses in POSTECH:
     papers:
       - title: EECE490F Introduction to VLSI Design, Spring 2020
+      - title: [EEB101 Biomedical System Semiconductor Integrated Design Basics, Fall 2020](https://smartlearn.io)
 
 
 skills:
