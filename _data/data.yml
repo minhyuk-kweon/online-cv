@@ -74,28 +74,28 @@ projects:
       #  tagline: ", with Sunghye Park, Jan.2019 - Present"
       
       #- title: Samsung Memory DT
-      #  tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      #  tagline: "Samsung, with Daeyeon Kim, Sung-yun Lee, Kyungjun Min, Jakang Lee, Jul.2021 - Present"
       
-      - title: IITP
-        tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      - title: Mass-production Block Standard Cell Usage-aware Virtual Netlist Development
+        tagline: "Samsung, with Daeyeon Kim, Kyungjun Min, May.2021 - Present"
       
-      - title: Samsung OPC
-        tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      - title: Software Systems for AI Semiconductor Design
+        tagline: "IITP, with Daeyeon Kim, Sung-yun Lee, Myeong Kong, Kyungjun Min, Jakang Lee, Apr.2021 - Present"
+      
+      - title: Ternary Microprocessor
+        tagline: "with Sunmean Kim, Daeyeon Kim, Seunghan Baek, Youngchang Choi, Jongho Yoon, Minjeong Choi, Jiyoung Min, Sep.2020 - Present"
       
       - title: Functional ECO with Behavioral Change Guidance (ICCAD contest 2021 - Problem A)
         link: http://iccad-contest.org/2021/
         tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
-      
-      - title: Ternary Microprocessor
-        tagline: "with Sunmean Kim, Seunghan Baek, Youngchang Choi, Jongho Yoon, Minjeong Choi, Jiyoung Min, Sep.2020 - Present"
+            
+      - title: Scalable Quantum Computer Technology Platform Center
+        #link: https://www.cerebras.net/ispd-2020-contest/
+        tagline: "NRF, with Sunghye Park, Jaekyung Im, Jul.2019 - Present"
       
       - title: Wafer Scale Physics Modeling (ISPD contest 2021)
         link: https://cerebras.net/blog/ispd-2021-contest/
         tagline: "Cerebras, with Kyungjun Min, Jaeseung Lee, Doeun Sim, Jan.2021 - Mar.2021"
-        
-      - title: Scalable Quantum Computer Technology Platform Center
-        #link: https://www.cerebras.net/ispd-2020-contest/
-        tagline: "NRF, with Sunghye Park, Jaekyung Im, Jul.2019 - Present"
     
       - title: Wafer-Scale Deep Learning Accelerator Placement (ISPD contest 2020)
         link: https://www.cerebras.net/ispd-2020-contest/
