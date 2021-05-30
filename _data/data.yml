@@ -127,12 +127,12 @@ projects:
     #    conference: "Comm. ACM 4 (1961), 51–55"
     
     
-journal:
-    title: Journals
-    papers:
-      - title: 
-        authors: Donald E. Knuth
-        journal: Addison-Wesley, 1968
+###journal:
+    ###title: Journals
+    ###papers:
+      #- title: 
+      #  authors: Donald E. Knuth
+      #  journal: Addison-Wesley, 1968
     
     
 ###patents:
