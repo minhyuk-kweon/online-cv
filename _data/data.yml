@@ -142,12 +142,12 @@ journal:
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
 
-domestic:
+journal:
     title: Domestic
     papers:
-      - title: 
+      - title: 2.5D Interposer Bus Routing for Multi-Flip Chip Designs
         authors: Sung-yun Lee, Daeyeon Kim, Minhyuk Kweon and Seokhyeong Kang
-        journal: 2.5D Interposer Bus Routing for Multi-Flip Chip Designs
+        journal: KCS 2020
 
 awards:
     title: Awards
