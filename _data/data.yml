@@ -41,9 +41,10 @@ career-profile:
     summary: |
       Minhyuk Kweon is currently Master-Ph.D integrated student in the
       Department of Electrical Engineering in Pohang University of Science and Technology (POSTECH), Korea.
-      He is working with Professor Seokhyeong Kang in [CAD & SoC Design Lab(CSDL).](http://csdl.postech.ac.kr)
+      He is working with Professor Seokhyeong Kang in [CAD & SoC Design Lab(CSDL)](http://csdl.postech.ac.kr).
       
-      His reseach interest includes VLSI physical design, Qunatum circuit mapping.
+      His reseach interest includes EDA (Electronic Design Automation) flow, ML-CAD (Machine Learning Computer Aided Design),
+      VLSI (Very-Large-Scale Integration) physical design, Ternary circuit logic, and Qunatum circuit mapping (or compiling).
       
       
 education:
@@ -71,9 +72,30 @@ projects:
     assignments:
       #- title: ERC
       #  tagline: ", with Sunghye Park, Jan.2019 - Present"
+      
+      #- title: Samsung Memory DT
+      #  tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      
+      - title: IITP
+        tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      
+      - title: Samsung OPC
+        tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      
+      - title: Functional ECO with Behavioral Change Guidance (ICCAD contest 2021 - Problem A)
+        link: http://iccad-contest.org/2021/
+        tagline: "Cadence, with Kyungjun Min, Jakang Lee, Jaemin Seo, Jaeseung Lee, Hojun Chung, May.2021 - Present"
+      
+      - title: Ternary Microprocessor
+        tagline: "with Sunmean Kim, Seunghan Baek, Youngchang Choi, Jongho Yoon, Minjeong Choi, Jiyoung Min, Sep.2020 - Present"
+      
+      - title: Wafer Scale Physics Modeling (ISPD contest 2021)
+        link: https://cerebras.net/blog/ispd-2021-contest/
+        tagline: "Cerebras, with Kyungjun Min, Jaeseung Lee, Doeun Sim, Jan.2021 - Mar.2021"
+        
       - title: Scalable Quantum Computer Technology Platform Center
         #link: https://www.cerebras.net/ispd-2020-contest/
-        tagline: "NRF, with Sunghye Park, Jul.2019 - Present"
+        tagline: "NRF, with Sunghye Park, Jaekyung Im, Jul.2019 - Present"
     
       - title: Wafer-Scale Deep Learning Accelerator Placement (ISPD contest 2020)
         link: https://www.cerebras.net/ispd-2020-contest/
@@ -119,8 +141,14 @@ projects:
       #- title: The Art of Computer Programming
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
-    
-    
+
+domestic:
+    title: Domestic
+    papers:
+      - title: 
+        authors: Sung-yun Lee, Daeyeon Kim, Minhyuk Kweon and Seokhyeong Kang
+        journal: 2.5D Interposer Bus Routing for Multi-Flip Chip Designs
+
 awards:
     title: Awards
     papers:
@@ -132,9 +160,10 @@ teaching:
     title: Teaching Assistance(TA)
     #intro: I am Teaching Assistance(TA) for the following courses in POSTECH:
     papers:
-      - title: EECE490F Introduction to VLSI Design, Spring 2020
+      - title: [EECE490F] Introduction to VLSI Design, Spring 2020
       #- title: [EEB101 Biomedical System Semiconductor Integrated Design Basics, Fall 2020](https://smartlearn.io)
-      - title: EEB101 Biomedical System Semiconductor Integrated Design Basics, Fall 2020
+      - title: [EEB101] Biomedical System Semiconductor Integrated Design Basics, Fall 2020
+      - title: [MOOC] System Semiconductor Design, Fall 2020 - Winter 2021
 
 skills:
     title: Skills &amp; Proficiency
