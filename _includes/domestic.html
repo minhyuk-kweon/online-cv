@@ -1,0 +1,31 @@
+
+{% assign journal = site.data.data.journal %}
+{% if journal %}
+<section class="section journal-section">
+
+  <h2 class="section-title">
+    <span class="fa-stack fa-xs">
+      <i class="fas fa-circle fa-stack-2x"></i>
+      <i class="fas fa-file-alt fa-stack-1x fa-inverse"></i>
+    </span>
+    {{ journal.title }}
+  </h2>
+
+  {% if journal.intro %}
+  <div class="intro">
+    {{ journal.intro | markdownify }}
+  </div><!--//intro-->
+  {% endif %}
+
+  <ol>
+  {% for journal in journal.papers %}
+  <div class="item">
+    <li><div class="journal-title">{{ journal.title }}</div></li>
+        <div class="journal-authors">{{ journal.authors }}</div>
+        <div class="journal-journal">{{ journal.journal }}</div>
+  </div><!--//item-->
+  {% endfor %}
+  </ol>
+
+</section><!--//section-->
+{% endif %}
