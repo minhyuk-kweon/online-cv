@@ -160,10 +160,10 @@ teaching:
     title: Teaching Assistance(TA)
     #intro: I am Teaching Assistance(TA) for the following courses in POSTECH:
     papers:
-      - title: [EECE490F] Introduction to VLSI Design, Spring 2020
+      - title: "[EECE490F] Introduction to VLSI Design, Spring 2020"
       #- title: [EEB101 Biomedical System Semiconductor Integrated Design Basics, Fall 2020](https://smartlearn.io)
-      - title: [EEB101] Biomedical System Semiconductor Integrated Design Basics, Fall 2020
-      - title: [MOOC] System Semiconductor Design, Fall 2020 - Winter 2021
+      - title: "[EEB101] Biomedical System Semiconductor Integrated Design Basics, Fall 2020"
+      - title: "[MOOC] System Semiconductor Design, Fall 2020 - Winter 2021"
 
 skills:
     title: Skills &amp; Proficiency
