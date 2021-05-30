@@ -142,7 +142,7 @@ journal:
       #  authors: Donald E. Knuth
       #  conference: Addison-Wesley, 1968
 
-journal:
+domestic:
     title: Domestic
     papers:
       - title: 2.5D Interposer Bus Routing for Multi-Flip Chip Designs
